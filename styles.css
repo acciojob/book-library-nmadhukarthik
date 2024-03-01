@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body
+{
+	background-color: #f8f8f8;
+	padding: 10px;
+}
+
+h3
+{
+	text-align:center;
+}
+
+.book-library
+{
+	background-color: #ffffff;
+}
+
+.book
+{
+	background-color: #f8f8f8;
+}
+
+.book>img
+{
+	margin-top: 20px;
+	margin-left: 40%;
+}
+
+h4>span
+{
+	color: #777777;
+}
+
+.book>div
+{
+	background-color: #2ecc71;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
